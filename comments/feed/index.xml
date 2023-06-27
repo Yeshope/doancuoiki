@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Bình luận cho doancuoiky	</title>
+	Comments for doancuoiky	</title>
 	<atom:link href="https://yeshope.github.io/doancuoiki/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://yeshope.github.io/doancuoiki</link>
 	<description></description>
-	<lastBuildDate>Mon, 26 Jun 2023 07:09:17 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 26 Jun 2023 09:54:01 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -19,7 +19,21 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>
-		Phản hồi cho Hello world! bởi A WordPress Commenter		</title>
+		Comment on BOLD PURSUIT COLLECTION by admin		</title>
+		<link>https://yeshope.github.io/doancuoiki/product/bold-pursuit-collection/#comment-2</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 26 Jun 2023 09:46:01 +0000</pubDate>
+		<guid isPermaLink="false">https://yeshope.github.io/doancuoiki/?post_type=product#038;p=11#comment-2</guid>
+
+					<description><![CDATA[hàng phê xài đi ]]></description>
+			<content:encoded><![CDATA[<p>hàng phê xài đi </p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Hello world! by A WordPress Commenter		</title>
 		<link>https://yeshope.github.io/doancuoiki/blog/2023/06/26/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>

@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Các phản hồi luận về: Hello world!	</title>
+	Comments on: Hello world!	</title>
 	<atom:link href="https://yeshope.github.io/doancuoiki/blog/2023/06/26/hello-world/feed/" rel="self" type="application/rss+xml" />
 	<link>https://yeshope.github.io/doancuoiki/blog/2023/06/26/hello-world/</link>
 	<description></description>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>
-		Bởi: A WordPress Commenter		</title>
+		By: A WordPress Commenter		</title>
 		<link>https://yeshope.github.io/doancuoiki/blog/2023/06/26/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
