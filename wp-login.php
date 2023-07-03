@@ -35,7 +35,7 @@
 						<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"> <label for="rememberme">Remember Me</label></p>
 			<p class="submit">
 				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In">
-									<input type="hidden" name="redirect_to" value="http://localhost/doancuoiki/wp-admin/?simply_static_page=800">
+									<input type="hidden" name="redirect_to" value="http://localhost/doancuoiki/wp-admin/?simply_static_page=2398">
 									<input type="hidden" name="testcookie" value="1">
 			</p>
 		</form>
@@ -61,7 +61,7 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }</script>
 <option value="en_GB" lang="en" selected data-installed="1">English (UK)</option>
 <option value="vi" lang="vi" data-installed="1">Tiếng Việt</option></select>
 					
-											<input type="hidden" name="redirect_to" value="http://localhost/doancuoiki/wp-admin/?simply_static_page=800">
+											<input type="hidden" name="redirect_to" value="http://localhost/doancuoiki/wp-admin/?simply_static_page=2398">
 					
 					
 						<input type="submit" class="button" value="Change">
@@ -90,7 +90,7 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script src="https://yeshope.github.io/doancuoiki/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
 <script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/doancuoiki\/wp-admin\/admin-ajax.php"}};</script>
 <script src="https://yeshope.github.io/doancuoiki/wp-includes/js/wp-util.min.js?ver=6.2.2" id="wp-util-js"></script>
-<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"adb434b42c"};</script>
+<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"a9d1026052"};</script>
 <script id="user-profile-js-translations">( function( domain, translations ) {
 	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
 	localeData[""].domain = domain;
