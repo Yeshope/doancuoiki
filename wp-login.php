@@ -35,7 +35,7 @@
 						<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"> <label for="rememberme">Remember Me</label></p>
 			<p class="submit">
 				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In">
-									<input type="hidden" name="redirect_to" value="http://localhost/doancuoiki/wp-admin/?simply_static_page=3204">
+									<input type="hidden" name="redirect_to" value="http://localhost/doancuoiki/wp-admin/?simply_static_page=5625">
 									<input type="hidden" name="testcookie" value="1">
 			</p>
 		</form>
@@ -61,7 +61,7 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }</script>
 <option value="en_GB" lang="en" selected data-installed="1">English (UK)</option>
 <option value="vi" lang="vi" data-installed="1">Tiếng Việt</option></select>
 					
-											<input type="hidden" name="redirect_to" value="http://localhost/doancuoiki/wp-admin/?simply_static_page=3204">
+											<input type="hidden" name="redirect_to" value="http://localhost/doancuoiki/wp-admin/?simply_static_page=5625">
 					
 					
 						<input type="submit" class="button" value="Change">
