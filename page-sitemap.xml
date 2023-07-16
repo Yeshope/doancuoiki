@@ -2,11 +2,81 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeshope.github.io/doancuoiki/</loc>
-		<lastmod>2023-07-03T08:54:50+00:00</lastmod>
+		<lastmod>2023-07-16T02:51:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeshope.github.io/doancuoiki/wp-content/uploads/2023/07/10006.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeshope.github.io/doancuoiki/wp-content/uploads/2023/07/10007.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeshope.github.io/doancuoiki/wp-content/uploads/2023/07/10004.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeshope.github.io/doancuoiki/wp-content/uploads/2023/07/10013.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeshope.github.io/doancuoiki/wp-content/uploads/2023/07/10016.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeshope.github.io/doancuoiki/wp-content/uploads/2023/07/10015.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeshope.github.io/doancuoiki/wp-content/uploads/2023/06/10004-300x300.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeshope.github.io/doancuoiki/wp-content/uploads/2023/06/10004-300x300.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeshope.github.io/doancuoiki/wp-content/uploads/2023/07/10055.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeshope.github.io/doancuoiki/wp-content/uploads/2023/07/10056.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeshope.github.io/doancuoiki/wp-content/uploads/2023/07/10057.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeshope.github.io/doancuoiki/wp-content/uploads/2023/07/10058.jpg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://yeshope.github.io/doancuoiki/contact-us/</loc>
-		<lastmod>2023-07-03T08:54:50+00:00</lastmod>
+		<lastmod>2023-07-16T05:05:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeshope.github.io/doancuoiki/about-us/</loc>
+		<lastmod>2023-07-16T04:44:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeshope.github.io/doancuoiki/wp-content/uploads/2023/07/10001.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeshope.github.io/doancuoiki/wp-content/uploads/2023/07/10005-1-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeshope.github.io/doancuoiki/wp-content/uploads/2023/07/10004-1-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeshope.github.io/doancuoiki/wp-content/uploads/2023/07/10003.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeshope.github.io/doancuoiki/wp-content/uploads/2023/07/10002.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeshope.github.io/doancuoiki/wp-content/uploads/2023/07/10001-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeshope.github.io/doancuoiki/shop-1/</loc>
+		<lastmod>2023-07-16T03:44:14+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeshope.github.io/doancuoiki/shop/</loc>
+		<lastmod>2023-07-16T03:03:50+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeshope.github.io/doancuoiki/blog/</loc>
+		<lastmod>2023-07-07T10:26:23+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeshope.github.io/doancuoiki/bai-seo/</loc>
@@ -18,10 +88,6 @@
 	<url>
 		<loc>https://yeshope.github.io/doancuoiki/demo-popup/</loc>
 		<lastmod>2023-06-29T22:07:26+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeshope.github.io/doancuoiki/shop/</loc>
-		<lastmod>2023-06-26T07:54:24+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeshope.github.io/doancuoiki/basket/</loc>
